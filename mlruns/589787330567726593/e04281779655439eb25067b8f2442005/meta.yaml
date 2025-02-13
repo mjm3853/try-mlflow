@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/589787330567726593/e04281779655439eb25067b8f2442005/artifacts
+end_time: 1739407205043
+entry_point_name: ''
+experiment_id: '589787330567726593'
+lifecycle_stage: active
+run_id: e04281779655439eb25067b8f2442005
+run_name: tasteful-ox-157
+run_uuid: e04281779655439eb25067b8f2442005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739407203277
+status: 3
+tags: []
+user_id: mjm

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/589787330567726593/87195fb0f7974c048a3df0a66ec79f11/artifacts
+end_time: 1739407074107
+entry_point_name: ''
+experiment_id: '589787330567726593'
+lifecycle_stage: active
+run_id: 87195fb0f7974c048a3df0a66ec79f11
+run_name: mercurial-mare-817
+run_uuid: 87195fb0f7974c048a3df0a66ec79f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739407072267
+status: 3
+tags: []
+user_id: mjm
