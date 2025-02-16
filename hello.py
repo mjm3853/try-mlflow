@@ -74,4 +74,16 @@ if __name__ == "__main__":
         result["actual_class"] = y_test
         result["predicted_class"] = predictions
 
-        print(result[:4])
+        precision = precision_score(y_true=y_test, y_pred=predictions, average="weighted")
+        # Log the precision metric
+        mlflow.log_metric("precision", precision)
+
+        recall = recall_score(y_true=y_test, y_pred=predictions, average="weighted")
+        # Log the recall metric
+        mlflow.log_metric("recall", recall)
+
+        f1 = f1_score(y_true=y_test, y_pred=predictions, average="weighted")
+        # Log the f1 metric
+        mlflow.log_metric("f1", f1)
+
+        print(result[:10])

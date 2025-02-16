@@ -1,0 +1,12 @@
+digest: 1f1484c1
+name: apple_sales
+profile: '{"num_rows": 1000, "num_elements": 9000}'
+schema: '{"mlflow_colspec": [{"type": "datetime", "name": "date", "required": true},
+  {"type": "double", "name": "average_temperature", "required": true}, {"type": "double",
+  "name": "rainfall", "required": true}, {"type": "long", "name": "weekend", "required":
+  true}, {"type": "long", "name": "holiday", "required": true}, {"type": "double",
+  "name": "price_per_kg", "required": true}, {"type": "long", "name": "promo", "required":
+  true}, {"type": "double", "name": "demand", "required": true}, {"type": "double",
+  "name": "previous_days_demand", "required": true}]}'
+source: '{"uri": "data/apple_sales.pkl"}'
+source_type: local
