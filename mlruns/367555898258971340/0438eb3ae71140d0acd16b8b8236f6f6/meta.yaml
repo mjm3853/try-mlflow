@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367555898258971340/0438eb3ae71140d0acd16b8b8236f6f6/artifacts
+end_time: 1752458427026
+entry_point_name: ''
+experiment_id: '367555898258971340'
+lifecycle_stage: active
+run_id: 0438eb3ae71140d0acd16b8b8236f6f6
+run_name: shivering-kite-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752458426889
+status: 4
+tags: []
+user_id: mjm

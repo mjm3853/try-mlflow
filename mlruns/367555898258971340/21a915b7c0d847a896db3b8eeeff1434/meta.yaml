@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367555898258971340/21a915b7c0d847a896db3b8eeeff1434/artifacts
+end_time: 1752458793600
+entry_point_name: ''
+experiment_id: '367555898258971340'
+lifecycle_stage: active
+run_id: 21a915b7c0d847a896db3b8eeeff1434
+run_name: unique-robin-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752458790932
+status: 3
+tags: []
+user_id: mjm

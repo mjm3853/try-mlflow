@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367555898258971340/bdd2158df74c40efbb00f8a640ba98fe/artifacts
+end_time: 1752459945819
+entry_point_name: ''
+experiment_id: '367555898258971340'
+lifecycle_stage: active
+run_id: bdd2158df74c40efbb00f8a640ba98fe
+run_name: nimble-bee-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752459943200
+status: 3
+tags: []
+user_id: mjm
