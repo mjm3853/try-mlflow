@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974183668076745730/c58e62f1606f4f87981ceb741dba983b/artifacts
+end_time: 1752543908526
+entry_point_name: ''
+experiment_id: '974183668076745730'
+lifecycle_stage: active
+run_id: c58e62f1606f4f87981ceb741dba983b
+run_name: skillful-skunk-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752543893667
+status: 4
+tags: []
+user_id: mjm

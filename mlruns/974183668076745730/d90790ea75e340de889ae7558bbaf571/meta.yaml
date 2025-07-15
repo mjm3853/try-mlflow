@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974183668076745730/d90790ea75e340de889ae7558bbaf571/artifacts
+end_time: 1752544624661
+entry_point_name: ''
+experiment_id: '974183668076745730'
+lifecycle_stage: active
+run_id: d90790ea75e340de889ae7558bbaf571
+run_name: salty-sponge-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752544359586
+status: 4
+tags: []
+user_id: mjm

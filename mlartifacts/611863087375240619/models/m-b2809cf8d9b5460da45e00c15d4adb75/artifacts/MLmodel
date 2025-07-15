@@ -1,0 +1,34 @@
+artifact_path: mlflow-artifacts:/611863087375240619/models/m-b2809cf8d9b5460da45e00c15d4adb75/artifacts
+env_vars:
+- OPENAI_API_KEY
+flavors:
+  python_function:
+    data: model.sentence_transformer
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sentence_transformers
+    python_version: 3.10.13
+  sentence_transformers:
+    code: null
+    pipeline_model_type: BertModel
+    sentence_transformers_version: 5.0.0
+    source_model_name: sentence-transformers/all-MiniLM-L6-v2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-b2809cf8d9b5460da45e00c15d4adb75
+model_size_bytes: 91821714
+model_uuid: m-b2809cf8d9b5460da45e00c15d4adb75
+prompts: null
+run_id: 6361841a7b154c4ba2bbf03b9e101c8a
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "string", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    384]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-15 02:08:34.765447'

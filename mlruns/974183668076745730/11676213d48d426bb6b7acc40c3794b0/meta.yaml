@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974183668076745730/11676213d48d426bb6b7acc40c3794b0/artifacts
+end_time: 1752543883439
+entry_point_name: ''
+experiment_id: '974183668076745730'
+lifecycle_stage: active
+run_id: 11676213d48d426bb6b7acc40c3794b0
+run_name: masked-elk-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752543628376
+status: 4
+tags: []
+user_id: mjm

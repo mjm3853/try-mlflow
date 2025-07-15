@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974183668076745730/913e710a446f4096a88363d021c53a15/artifacts
+end_time: 1752543328692
+entry_point_name: ''
+experiment_id: '974183668076745730'
+lifecycle_stage: active
+run_id: 913e710a446f4096a88363d021c53a15
+run_name: bright-skink-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752543320056
+status: 4
+tags: []
+user_id: mjm

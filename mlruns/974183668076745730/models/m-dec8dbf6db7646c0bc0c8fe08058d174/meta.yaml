@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/974183668076745730/models/m-dec8dbf6db7646c0bc0c8fe08058d174/artifacts
+creation_timestamp: 1752543320107
+experiment_id: '974183668076745730'
+last_updated_timestamp: 1752543328196
+model_id: m-dec8dbf6db7646c0bc0c8fe08058d174
+model_type: ''
+name: sbert_model
+source_run_id: 913e710a446f4096a88363d021c53a15
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974183668076745730/515d8b74ecc8407d95b645e7db44c656/artifacts
+end_time: 1752543610783
+entry_point_name: ''
+experiment_id: '974183668076745730'
+lifecycle_stage: active
+run_id: 515d8b74ecc8407d95b645e7db44c656
+run_name: melodic-panda-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752543451110
+status: 4
+tags: []
+user_id: mjm

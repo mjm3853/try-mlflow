@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/611863087375240619/6361841a7b154c4ba2bbf03b9e101c8a/artifacts
+end_time: 1752545322055
+entry_point_name: ''
+experiment_id: '611863087375240619'
+lifecycle_stage: active
+run_id: 6361841a7b154c4ba2bbf03b9e101c8a
+run_name: grandiose-lamb-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752545314704
+status: 3
+tags: []
+user_id: mjm
